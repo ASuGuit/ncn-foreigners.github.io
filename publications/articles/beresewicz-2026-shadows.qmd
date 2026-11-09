@@ -1,0 +1,28 @@
+---
+title: "Counting Shadows: A Community-Anchored Modeling Framework for Estimating Unauthorized Population Size"
+type: "article"
+author: "Beręsewicz, Georgeson, Walsh, Czerniawska & Zhang"
+year: "2026"
+materials: "https://github.com/ncn-foreigners/paper-shadows"
+toc: false
+categories:
+  - article
+  - preprint
+---
+
+## Abstract
+
+Estimating the size of hidden populations typically requires linking individual records across multiple sources, such as by capture–recapture methods, which is often either impossible or error-prone. We estimate unauthorized foreign populations from aggregated administrative data alone, by proposing a general community-anchored modeling framework. Our model represents the unobserved unauthorized stock as a power-law function of an observed authorized reference population with the exponent as the community-anchor parameter, while the detection of unauthorized foreigners is regulated by an exposure-elasticity parameter, where both the parameters vary with covariates. Applied to Poland over 2019–2024, the method yields an estimated adult non-Schengen unauthorized population of 94,000 (80% interval: 36,000–206,000) in 2019 and 101,000 (46,000–177,000) in 2024, compared to the authorized reference population that has doubled over this period from 0.6 to 1.2 million. Moreover, we recover a structural break: the Ukrainian component declined from 60,000 to 11,000 following the 2022 EU Temporary Protection Directive, while the non-Ukrainian population expanded from 34,000 to 89,000. By removing the need for record linkage, our approach offers a viable alternative for many countries.
+
+## Citation
+
+> Beręsewicz, M., Georgeson, B., Walsh P., Czerniawska, A. & Zhang, L-C. (2025). Counting Shadows: A Community-Anchored Modeling Framework for Estimating Unauthorized Population Size. Working Paper
+
+## BibTeX
+
+``` tex
+@misc{beresewicz2025,
+         author  = {Beręsewicz, M., Georgeson, B., Walsh P., Czerniawska, A. and Zhang, L-C.},
+         title   = {Counting Shadows: A Community-Anchored Modeling Framework for Estimating Unauthorized Population Size}
+}
+```
