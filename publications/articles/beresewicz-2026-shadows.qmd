@@ -4,6 +4,7 @@ type: "article"
 author: "Beręsewicz, Georgeson, Walsh, Czerniawska & Zhang"
 year: "2026"
 materials: "https://github.com/ncn-foreigners/paper-shadows"
+preprint: "/publications/articles/pdfs/beresewicz-2026-shadows.pdf"
 toc: false
 categories:
   - article

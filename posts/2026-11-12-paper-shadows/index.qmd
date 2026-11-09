@@ -1,0 +1,39 @@
+---
+title: "Counting Shadows (working paper)"
+author: "Maciej Beręsewicz"
+date: "2026-11-12"
+draft: false
+image: shadows.png
+categories:
+  - papers
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+
+::: {.panel-tabset}
+
+## Polish
+
+Liczenie cieni -- model zakotwiczony we wspólnocie: szacowanie liczby osób o nieuregulowanym statusie pobytowym wyłącznie z danych zagregowanych.
+
+Szacowanie wielkości populacji ukrytych zwykle wymaga łączenia rekordów o tych samych osobach z kilku źródeł. Często jest to niemożliwe albo obarczone błędami. Artykuł pokazuje, że liczbę cudzoziemców o nieuregulowanym statusie można oszacować z trzech zagregowanych liczebności, które już istnieją w systemach administracyjnych.
+
+
++ Artykuł: [streszczenie](https://ncn-foreigners.ue.poznan.pl/publications/articles/beresewicz-2026-shadows.html)
++ Artykuł: [pdf](../../publications/articles/pdfs/beresewicz-2026-shadows.pdf)
++ Podsumowanie popularyzatorskie: [html](shadows-pl.html)
+
+
+## English
+
+Counting shadows -- a community-anchored model: estimating the size of the unauthorized population from aggregated data alone.
+
+Estimating the size of hidden populations typically requires linking individual records across multiple sources, which is often either impossible or error-prone. The paper shows that the number of unauthorized foreign nationals can be estimated from three aggregated counts that already exist in administrative systems.
+
++ Paper: [abstract](https://ncn-foreigners.ue.poznan.pl/publications/articles/beresewicz-2026-shadows.html)
++ Paper: [pdf](../../publications/articles/pdfs/beresewicz-2026-shadows.pdf)
++ Visual summary: [html](shadows-en.html)
+
+:::
