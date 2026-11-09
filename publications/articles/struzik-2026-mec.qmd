@@ -4,7 +4,7 @@ type: "article"
 author: "Struzik & Beręsewicz"
 year: "2026"
 publication: "Submitted"
-preprint: "/publications/articles/struzik-2026-mec.pdf"
+preprint: "/publications/articles/pdfs/struzik-2026-mec.pdf"
 materials: "https://github.com/ncn-foreigners/paper-mec-record-linkage"
 toc: false
 categories:
