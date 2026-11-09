@@ -1,0 +1,34 @@
+---
+title: "Maximum entropy record linkage with continuous comparisons"
+type: "article"
+author: "Struzik & Beręsewicz"
+year: "2026"
+publication: "Submitted"
+preprint: "/publications/articles/struzik-2026-mec.pdf"
+materials: "https://github.com/ncn-foreigners/paper-mec-record-linkage"
+toc: false
+categories:
+  - article
+  - preprint
+  - record linkage
+---
+
+## Abstract
+
+In this paper, we generalize the unsupervised maximum entropy classification (MEC) algorithm for record linkage, originally proposed by Lee et al. (2022, Surv. Methodol.), to allow for the use of continuous comparison functions. The initial MEC approach relies on binary comparisons, thereby overlooking small discrepancies between key variable values. We incorporate continuous comparison functions by developing two approaches: parametric and nonparametric. The former is based on the hurdle Gamma distribution (cf. Vo et al., 2023, Comput. Stat. Data Anal.), whereas the latter uses the Kullback-Leibler Importance Estimation Procedure (cf. Sugiyama et al., 2008, Ann. Inst. Stat. Math.). Next, we integrate our method with probabilistic blocking to ensure computational scalability. We conduct two simulation studies, which indicate that the proposed continuous approaches perform well and offer overall improvements over the binary algorithm in most cases. Finally, we evaluate the developed method by linking two administrative registers of foreign-born nationals in Poland. The proposed approaches are implemented in the `automatedRecLin` R package, available on CRAN.
+
+## Citation
+
+> Struzik, A. & Beręsewicz, M. (2026). Maximum entropy record linkage with continuous comparisons. *Submitted to the Journal of Machine Learning Research*.
+
+## BibTeX
+
+``` tex
+@misc{struzik2026,
+      title = {Maximum Entropy Record Linkage with Continuous Comparisons},
+      note = {Submitted to the Journal of Machine Learning Research},
+      author = {Struzik, Adam and Beręsewicz, Maciej},
+      year = {2026},
+      url = {https://github.com/ncn-foreigners/ncn-foreigners.github.io/tree/main/publications/articles/struzik-2026-mec.pdf}
+}
+```
